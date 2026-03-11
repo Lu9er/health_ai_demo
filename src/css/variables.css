@@ -1,0 +1,24 @@
+:root {
+  --navy: #0A2540;
+  --deep-blue: #065A82;
+  --teal: #1C7293;
+  --light-teal: #2A9D8F;
+  --accent: #E76F51;
+  --accent-gold: #F4A261;
+  --bg: #F0F4F8;
+  --card: #FFFFFF;
+  --text: #1A1A2E;
+  --text-muted: #6B7280;
+  --border: #E2E8F0;
+  --success: #10B981;
+  --warning: #F59E0B;
+  --danger: #EF4444;
+  --info: #3B82F6;
+  --font: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-lg: 0 20px 60px rgba(0,0,0,0.15);
+}
